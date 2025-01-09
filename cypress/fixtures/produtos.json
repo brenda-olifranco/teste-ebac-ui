@@ -1,0 +1,22 @@
+[
+    {
+        "nomeProduto": "Ajax Full-Zip Sweatshirt",
+        "tamanho": "XL",
+        "cor": "Green",
+        "quantidade": 3
+    },
+
+    {
+        "nomeProduto": "Abominable Hoodie",
+        "tamanho": "XL",
+        "cor": "Green",
+        "quantidade": 3
+    },
+
+    {
+        "nomeProduto": "Geo Insulated Joggin Pant",
+        "tamanho": "34",
+        "cor": "Green",
+        "quantidade": 10
+    }
+]
